@@ -1,2 +1,2 @@
-# js
-code for js
+# React
+code for basic react project
